@@ -2,10 +2,9 @@
   "$schema": "https://turbo.build/schema.json",
   "ui": "tui",
   "tasks": {
-    "netlify:deploy": {
+    "build": {
       "persistent": false,
-      "cache": false,
-      "interactive": true
+      "cache": false
     }
   }
 }
