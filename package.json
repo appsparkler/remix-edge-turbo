@@ -1,12 +1,7 @@
 {
   "name": "remix-edge-turbo",
   "private": true,
-  "scripts": {
-    "build": "turbo build",
-    "dev": "turbo dev",
-    "lint": "turbo lint",
-    "format": "prettier --write \"**/*.{ts,tsx,md}\""
-  },
+  "scripts": {},
   "devDependencies": {
     "prettier": "^3.2.5",
     "turbo": "^2.3.3",
